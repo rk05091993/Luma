@@ -1,0 +1,88 @@
+2025-02-15 09:47:00 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\Master.xml
+
+2025-02-15 09:47:10 INFO  TC001_AccountRegistration:18 - Test Case001_ Started**************************
+2025-02-15 09:47:11 INFO  TC001_AccountRegistration:22 - Clicked on create acc
+2025-02-15 09:47:11 INFO  TC001_AccountRegistration:26 - Providing credentials...........
+2025-02-15 09:47:12 INFO  TC001_AccountRegistration:35 - New account registered......................
+2025-02-15 09:47:12 INFO  TC001_AccountRegistration:49 - Execution finished
+2025-02-15 10:36:34 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 10:37:39 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 10:48:44 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 14:07:23 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 14:10:30 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-02-15 14:11:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\rosha\AppData\Local\Temp\testng-eclipse-1069922513\testng-customsuite.xml
+
+2025-02-15 14:11:26 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@12958360: 31 ms
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@c6a6c1d: 10 ms
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@256aa5f2: 9 ms
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6ee8dcd3: 10 ms
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@16073fa8: 3 ms
+2025-02-15 14:11:27 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1cc9cfb2: 0 ms
+2025-02-15 14:12:58 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 14:17:00 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\Master.xml
+
+2025-02-15 14:17:06 INFO  TC001_AccountRegistration:18 - Test Case001_ Started**************************
+2025-02-15 14:17:08 INFO  TC001_AccountRegistration:22 - Clicked on create acc
+2025-02-15 14:17:08 INFO  TC001_AccountRegistration:26 - Providing credentials...........
+2025-02-15 14:17:08 INFO  TC001_AccountRegistration:35 - New account registered......................
+2025-02-15 14:17:08 INFO  TC001_AccountRegistration:49 - Execution finished
+2025-02-15 14:20:09 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\test-output\testng-failed.xml
+
+2025-02-15 14:21:10 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\test-output\testng-failed.xml
+
+2025-02-15 14:28:40 INFO  Utils:112 - [TestNG] Running:
+  E:\Eclipse Project\Luma\testng.xml
+
+2025-02-15 14:28:47 INFO  TC002_SignINTestDDT:17 - Test Case002_ Started**************************
+2025-02-15 14:28:59 INFO  TC002_SignINTestDDT:17 - Test Case002_ Started**************************
+2025-02-15 14:29:12 INFO  TC002_SignINTestDDT:17 - Test Case002_ Started**************************
+2025-02-15 14:29:25 INFO  TC002_SignINTestDDT:17 - Test Case002_ Started**************************
+2025-02-15 14:29:38 INFO  TC002_SignINTestDDT:17 - Test Case002_ Started**************************
